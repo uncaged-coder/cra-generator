@@ -1,0 +1,17 @@
+Date: $date_email
+To: <uncaged-coder@proton.me>
+Subject: CRA pour le mois de $month_no_accents
+From: uncaged-coder@proton.me
+User-Agent: mblaze/1.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename=$attach_filename
+
+Bonjour XXX,
+
+J'ai travaillé $nb_worked_days jours pour le mois de $month $year.
+Ci joint le CRA.  Peux-tu valider le CRA par retour email ?
+
+Merci et bonne journée.
+Uncaged coder
